@@ -1,6 +1,5 @@
 Team number 6
-Name of team members
-Nikhil,Karthik , Vivian , Shiv
+
 Description
 
 The project is a coherant implementation of machine learning using a simple banknotes dataset. 
